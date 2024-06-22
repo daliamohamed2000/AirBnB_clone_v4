@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1718570980,,"wq"
+|2,0,1719045921,,"wq"
+:w
+|2,0,1719044244,,"w"
 
 # Search String History (newest to oldest):
 
@@ -24,234 +26,308 @@
 
 # Registers:
 ""-	CHAR	0
-	5
-|3,1,36,0,1,0,1718570978,"5"
+	 
+|3,1,36,0,1,0,1719045920," "
 
 # File marks:
-'0  1  9  ~/alx-system_engineering-devops/0x18-webstack_monitoring/2-setup_datadog
-|4,48,1,9,1718570980,"~/alx-system_engineering-devops/0x18-webstack_monitoring/2-setup_datadog"
-'1  2  39  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-setup_datadog
-|4,49,2,39,1718570950,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-setup_datadog"
-'2  2  63  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic
-|4,50,2,63,1718570925,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic"
-'3  5  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,51,5,0,1718570615,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
-'4  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,52,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
-'5  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,53,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
-'6  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,54,19,15,1718570255,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
-'7  17  56  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,55,17,56,1718570149,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
-'8  17  56  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,56,17,56,1718570149,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
-'9  17  56  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,57,17,56,1718570149,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
+'0  3  27  ~/alx-higher_level_programming/0x05-python-exceptions/6-raise_exception_msg.py
+|4,48,3,27,1719045921,"~/alx-higher_level_programming/0x05-python-exceptions/6-raise_exception_msg.py"
+'1  3  18  ~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py
+|4,49,3,18,1719045899,"~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py"
+'2  19  20  ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
+|4,50,19,20,1719045878,"~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py"
+'3  115  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,51,115,0,1719045852,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+'4  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,52,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+'5  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,53,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+'6  21  15  ~/alx-higher_level_programming/0x05-python-exceptions/0-safe_print_list.py
+|4,54,21,15,1719045790,"~/alx-higher_level_programming/0x05-python-exceptions/0-safe_print_list.py"
+'7  15  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
+|4,55,15,0,1719044254,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
+'8  12  65  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
+|4,56,12,65,1719043833,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
+'9  12  160  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
+|4,57,12,160,1719043721,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
 
 # Jumplist (newest first):
--'  1  9  ~/alx-system_engineering-devops/0x18-webstack_monitoring/2-setup_datadog
-|4,39,1,9,1718570980,"~/alx-system_engineering-devops/0x18-webstack_monitoring/2-setup_datadog"
--'  2  39  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-setup_datadog
-|4,39,2,39,1718570950,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-setup_datadog"
--'  2  39  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-setup_datadog
-|4,39,2,39,1718570950,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-setup_datadog"
--'  1  0  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-setup_datadog
-|4,39,1,0,1718570940,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-setup_datadog"
--'  1  0  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-setup_datadog
-|4,39,1,0,1718570940,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-setup_datadog"
--'  2  63  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic
-|4,39,2,63,1718570925,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic"
--'  2  63  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic
-|4,39,2,63,1718570925,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic"
--'  2  63  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic
-|4,39,2,63,1718570925,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic"
--'  2  63  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic
-|4,39,2,63,1718570925,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic"
--'  1  0  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic
-|4,39,1,0,1718570913,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic"
--'  1  0  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic
-|4,39,1,0,1718570913,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic"
--'  1  0  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic
-|4,39,1,0,1718570913,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic"
--'  1  0  ~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic
-|4,39,1,0,1718570913,"~/alx-system_engineering-devops/0x18-webstack_monitoring/0-monitor_your_nginx_traffic"
--'  5  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,5,0,1718570615,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  5  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,5,0,1718570615,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  5  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,5,0,1718570615,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  5  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,5,0,1718570615,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  5  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,5,0,1718570615,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  5  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,5,0,1718570615,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  5  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,5,0,1718570615,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  5  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,5,0,1718570615,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  1  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,1,0,1718570600,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  1  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,1,0,1718570600,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  1  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,1,0,1718570600,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  1  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,1,0,1718570600,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  1  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,1,0,1718570600,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  1  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,1,0,1718570600,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  1  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,1,0,1718570600,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  1  0  ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
-|4,39,1,0,1718570600,"~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  19  15  ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-|4,39,19,15,1718570394,"~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  18  65  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,18,65,1718570369,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
--'  1  0  ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-|4,39,1,0,1718570346,"~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py"
+-'  3  27  ~/alx-higher_level_programming/0x05-python-exceptions/6-raise_exception_msg.py
+|4,39,3,27,1719045921,"~/alx-higher_level_programming/0x05-python-exceptions/6-raise_exception_msg.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/6-raise_exception_msg.py
+|4,39,1,0,1719045911,"~/alx-higher_level_programming/0x05-python-exceptions/6-raise_exception_msg.py"
+-'  3  18  ~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py
+|4,39,3,18,1719045899,"~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py"
+-'  3  18  ~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py
+|4,39,3,18,1719045899,"~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py
+|4,39,1,0,1719045887,"~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py
+|4,39,1,0,1719045887,"~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py"
+-'  19  20  ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
+|4,39,19,20,1719045878,"~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py"
+-'  19  20  ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
+|4,39,19,20,1719045878,"~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py"
+-'  19  20  ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
+|4,39,19,20,1719045878,"~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py"
+-'  19  20  ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
+|4,39,19,20,1719045878,"~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
+|4,39,1,0,1719045866,"~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
+|4,39,1,0,1719045866,"~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
+|4,39,1,0,1719045866,"~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
+|4,39,1,0,1719045866,"~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py"
+-'  115  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,115,0,1719045852,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  115  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,115,0,1719045852,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  115  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,115,0,1719045852,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  115  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,115,0,1719045852,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  115  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,115,0,1719045852,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  115  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,115,0,1719045852,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  115  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,115,0,1719045852,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  115  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,115,0,1719045852,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,1,0,1719045842,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,1,0,1719045842,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,1,0,1719045842,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,1,0,1719045842,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,1,0,1719045842,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,1,0,1719045842,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,1,0,1719045842,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+|4,39,1,0,1719045842,"~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  12  16  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,12,16,1719045833,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+|4,39,1,0,1719045822,"~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  16  21  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,16,21,1719045812,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,1,0,1719045800,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,1,0,1719045800,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,1,0,1719045800,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,1,0,1719045800,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,1,0,1719045800,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
+-'  1  0  ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+|4,39,1,0,1719045800,"~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-higher_level_programming/0x05-python-exceptions/6-raise_exception_msg.py
+	*	1719045920	0
+	"	3	27
+	^	3	28
+	.	3	27
+	+	3	27
+
+> ~/alx-higher_level_programming/0x05-python-exceptions/5-raise_exception.py
+	*	1719045897	0
+	"	3	18
+	^	3	19
+	.	3	18
+	+	3	18
+
+> ~/alx-higher_level_programming/0x05-python-exceptions/4-list_division.py
+	*	1719045877	0
+	"	19	20
+	^	19	21
+	.	19	20
+	+	19	20
+
+> ~/alx-higher_level_programming/0x05-python-exceptions/3-safe_print_division.py
+	*	1719045851	0
+	"	115	0
+	^	115	1
+	.	115	0
+	+	115	0
+
+> ~/alx-higher_level_programming/0x05-python-exceptions/2-safe_print_list_integers.py
+	*	1719045832	0
+	"	12	16
+	^	12	17
+	.	12	16
+	+	12	16
+
+> ~/alx-higher_level_programming/0x05-python-exceptions/1-safe_print_integer.py
+	*	1719045811	0
+	"	16	21
+	^	16	22
+	.	16	21
+	+	16	21
+
+> ~/alx-higher_level_programming/0x05-python-exceptions/0-safe_print_list.py
+	*	1719045788	0
+	"	21	15
+	^	21	16
+	.	21	15
+	+	21	15
+
+> ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
+	*	1719044252	0
+	"	15	0
+	^	15	1
+	.	15	0
+	+	33	20
+	+	18	65
+	+	14	34
+	+	15	0
+
+> ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
+	*	1719043832	0
+	"	12	65
+	^	12	67
+	.	12	65
+	+	1	89
+	+	1	559
+	+	1	538
+	+	1	414
+	+	1	55
+	+	1	17
+	+	1	18
+	+	17	56
+	+	12	65
 
 > ~/alx-system_engineering-devops/0x18-webstack_monitoring/2-setup_datadog
 	*	1718570978	0
@@ -280,23 +356,6 @@
 	^	5	1
 	.	5	0
 	+	5	0
-
-> ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
-	*	1718570393	0
-	"	19	15
-	^	19	16
-	.	19	15
-	+	27	15
-	+	17	56
-	+	19	15
-
-> ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
-	*	1718570366	0
-	"	18	65
-	^	18	66
-	.	18	65
-	+	33	20
-	+	18	65
 
 > ~/alx-system_engineering-devops/0x16-api_advanced/0-
 	*	1718570017	0
